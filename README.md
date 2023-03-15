@@ -1,6 +1,21 @@
 ### Olá, eu sou o Leonardo Hilgemberg, criador da AthenasArch 👋
 - Busco novos desafios e novos projetos.
 
+<picture>
+  
+<!--  Para criar as caixas do mesmo tamanho:  -->
+<!--    <img width="42%" src="link"> (para o 1 elemento) e <img width="50%" src="link">  -->
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=AthenasArch&show_icons=true&theme=radical"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=AthenasArch&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=AthenasArch&show_icons=true" />
+</picture>
+
 ## Sobre mim
 - 🔭 Atualmente, estou criando conteúdos digitais relacionados a programação, inteligência artificial e projetos de automação no Instagram @athenasarch.
 - 🌱 Estou estudando Python e Inteligência Artificial no momento.
