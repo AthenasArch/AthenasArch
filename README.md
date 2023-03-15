@@ -13,8 +13,13 @@
   srcset="https://github-readme-stats.vercel.app/api?username=AthenasArch&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=AthenasArch&show_icons=true" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=AthenasArch&show_icons=true" />
 </picture>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthenasArch&layout=compact&theme=radical" />
+</a>
+
 
 ## Sobre mim
 - 🔭 Atualmente, estou criando conteúdos digitais relacionados a programação, inteligência artificial e projetos de automação no Instagram @athenasarch.
