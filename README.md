@@ -1,5 +1,7 @@
 ### Olá, eu sou o Leonardo Hilgemberg, criador da AthenasArch 👋
 
+#
+
 <picture>
   
 <!--  Para criar as caixas do mesmo tamanho:  -->
@@ -30,65 +32,43 @@
 
 #
 
-### 🧰 Ferramentas que utilizo
+### 🧰 Ferramentas
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
----
+#
 
-### 📺 Meus vídeos do Instagram ou YouTube - Athenas
+### 📺 Meus vídeos Shorts do YouTube - Athenas
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
 <div>
 	<!-- Video de porque começar com jogos -->
-	<a href="https://www.instagram.com/reel/CpgeN30jU4b/?utm_source=ig_web_copy_link" target="_blank"><img width="13%" src="https://github.com/AthenasArch/imagensDeVideos/blob/0a299a9845981f74e181750898f092525f1dab3b/1E6DD00A-5C13-42AC-9FB9-514D0D314288.jpg" target="_blank"></a>
-	<!-- Video tiramos potencia do Kart -->
-	<a href="https://www.instagram.com/reel/Cozsp8WDD1A/?utm_source=ig_web_copy_link" target="_blank"><img width="13%" src="https://github.com/AthenasArch/imagensDeVideos/blob/0a299a9845981f74e181750898f092525f1dab3b/3A60DC70-1304-4809-A6F1-5E23CDBBFCA8.jpg" target="_blank"></a>
-	<!-- Video carrinho de controle remoto -->
-	<a href="https://www.instagram.com/reel/CpTkx5lD_zy/?utm_source=ig_web_copy_link" target="_blank"><img width="13%" src="https://github.com/AthenasArch/imagensDeVideos/blob/0a299a9845981f74e181750898f092525f1dab3b/46604307-9B78-4AF4-A21B-1AF7967E6A1E.jpg" target="_blank"></a>
-	<!-- Video do baterias do Kart -->
-	<a href="https://www.instagram.com/reel/Co99g1fjyrF/?utm_source=ig_web_copy_link" target="_blank"><img width="13%" src="https://github.com/AthenasArch/imagensDeVideos/blob/0a299a9845981f74e181750898f092525f1dab3b/BABA0FDF-3769-4FA5-AB60-0873AADB26FD.jpg" target="_blank"></a>
-	<!-- Video do meu jogo do Flappy Bird -->
-	<a href="https://www.instagram.com/reel/CpN_ZPRDcc8/?utm_source=ig_web_copy_link" target="_blank"><img width="13%" src="https://github.com/AthenasArch/imagensDeVideos/blob/0a299a9845981f74e181750898f092525f1dab3b/D3AEC4A9-DDF1-49B1-9162-DB5CDC7A3345.jpg" target="_blank"></a>
-	<!-- Video do jogo do Luiz-Di-Game -->
-	<a href="https://www.instagram.com/reel/Cmzyv3BD1Oq/?utm_source=ig_web_copy_link" target="_blank"><img width="13%" src="https://github.com/AthenasArch/imagensDeVideos/blob/db9848dbed15541877134b0d37c96c8acba185d3/LuizDiGame.jpg" target="_blank"></a>
-	<!-- Video do jogo do The-Google-Dino -->
-	<a href="https://www.instagram.com/reel/CoYa1rqjHVZ/?utm_source=ig_web_copy_link" target="_blank"><img width="13%" src="https://github.com/AthenasArch/imagensDeVideos/blob/db9848dbed15541877134b0d37c96c8acba185d3/The-Google-Dino.jpg" target="_blank"></a>
+	<a href="https://youtube.com/shorts/N5RL5DKm5p0?feature=share" target="_blank"><img width="13%" src="https://github.com/AthenasArch/imagensDeVideos/blob/0a299a9845981f74e181750898f092525f1dab3b/1E6DD00A-5C13-42AC-9FB9-514D0D314288.jpg" target="_blank"></a>
+	<!-- Video tiramos potencia do Kart - OK -->
+	<a href="https://youtu.be/_nk-C8XDj_w" target="_blank"><img width="13%" src="https://github.com/AthenasArch/imagensDeVideos/blob/0a299a9845981f74e181750898f092525f1dab3b/3A60DC70-1304-4809-A6F1-5E23CDBBFCA8.jpg" target="_blank"></a>
+	<!-- Video carrinho de controle remoto - OK -->
+	<a href="https://youtube.com/shorts/QEdMzgKsc94?feature=share" target="_blank"><img width="13%" src="https://github.com/AthenasArch/imagensDeVideos/blob/0a299a9845981f74e181750898f092525f1dab3b/46604307-9B78-4AF4-A21B-1AF7967E6A1E.jpg" target="_blank"></a>
+	<!-- Video das baterias do Kart - OK -->
+	<a href="https://youtu.be/F3zob1KNGSw" target="_blank"><img width="13%" src="https://github.com/AthenasArch/imagensDeVideos/blob/0a299a9845981f74e181750898f092525f1dab3b/BABA0FDF-3769-4FA5-AB60-0873AADB26FD.jpg" target="_blank"></a>
+	<!-- Video do meu jogo do Flappy Bird - OK -->
+	<a href="https://youtu.be/oxTepLcOX7k" target="_blank"><img width="13%" src="https://github.com/AthenasArch/imagensDeVideos/blob/0a299a9845981f74e181750898f092525f1dab3b/D3AEC4A9-DDF1-49B1-9162-DB5CDC7A3345.jpg" target="_blank"></a>
+	<!-- Video do jogo do Luiz-Di-Game - OK -->
+	<a href="https://youtube.com/shorts/G_Flz1Z6nwo?feature=share" target="_blank"><img width="13%" src="https://github.com/AthenasArch/imagensDeVideos/blob/db9848dbed15541877134b0d37c96c8acba185d3/LuizDiGame.jpg" target="_blank"></a>
+	<!-- Video do jogo do The-Google-Dino - OK -->
+	<a href="https://youtu.be/fc71e82lFhM" target="_blank"><img width="13%" src="https://github.com/AthenasArch/imagensDeVideos/blob/db9848dbed15541877134b0d37c96c8acba185d3/The-Google-Dino.jpg" target="_blank"></a>
 </div>	
-<!-- END INSTAGRAM-CARDS -->
+<!-- END SHORTS DO YOUTUBE-CARDS -->
 
 <!-- "#" = (faz uma linha/borda simples) -->
-#
-
-
-<p align="left">
-  <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
 ---
 
 ## Sobre mim
@@ -108,11 +88,10 @@
 - 💬 Sinta-se à vontade para perguntar sobre qualquer coisa.
 - 📫 Como me encontrar: Instagram: @athenasarch; E-mail: athenasarch@gmail.com.
 
-
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Caminhada de projetos do Leonardo e a Athenas</h3></summary>
    - Eu sou o leonardo Hilgemberg.
-
+</details>
 <!--
 &theme=THEME_NAME
 **AthenasArch/AthenasArch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
