@@ -52,16 +52,27 @@
 
 ---
 
-### 📺 Meus vídeos do yotube - Athenas
+### 📺 Meus vídeos do Instagram ou YouTube - Athenas
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Coding won’t exist in 5 years? You might be right.](https://ytcards.demolab.com/?id=brAwZ5l_fuQ&title=Coding+won%E2%80%99t+exist+in+5+years%3F+You+might+be+right.&lang=en&timestamp=1678982010&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=999 "Coding won’t exist in 5 years? You might be right.")](https://youtu.be/oxTepLcOX7k)
-[![The story behind the name "Linux"](https://ytcards.demolab.com/?id=QjoKwulmS4U&title=The+story+behind+the+name+%22Linux%22&lang=en&timestamp=1678622419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=58 "The story behind the name \"Linux\"")](https://www.youtube.com/watch?v=QjoKwulmS4U)
-[![Tools EVERY Software Engineer Should Know](https://ytcards.demolab.com/?id=D4JkWoUovdo&title=Tools+EVERY+Software+Engineer+Should+Know&lang=en&timestamp=1678375804&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=960 "Tools EVERY Software Engineer Should Know")](https://www.youtube.com/watch?v=D4JkWoUovdo)
-[![Linux almost didn’t exist](https://ytcards.demolab.com/?id=ewr-IKmTiYE&title=Linux+almost+didn%E2%80%99t+exist&lang=en&timestamp=1678021223&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=48 "Linux almost didn’t exist")](https://www.youtube.com/watch?v=ewr-IKmTiYE)
-[![The Making of Linux: The World's First Open-Source Operating System](https://ytcards.demolab.com/?id=E0Q9KnYSVLc&title=The+Making+of+Linux%3A+The+World%27s+First+Open-Source+Operating+System&lang=en&timestamp=1677070808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=693 "The Making of Linux: The World's First Open-Source Operating System")](https://www.youtube.com/watch?v=E0Q9KnYSVLc)
-[![If you use ChatGPT to CHEAT, do this ONE THING!](https://ytcards.demolab.com/?id=Xffgj-RjOXw&title=If+you+use+ChatGPT+to+CHEAT%2C+do+this+ONE+THING%21&lang=en&timestamp=1676556019&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=54 "If you use ChatGPT to CHEAT, do this ONE THING!")](https://www.youtube.com/watch?v=Xffgj-RjOXw)
-<!-- END YOUTUBE-CARDS -->
+
+<div>
+	<!-- Video de porque começar com jogos -->
+	<a href="https://www.instagram.com/reel/CpgeN30jU4b/?utm_source=ig_web_copy_link" target="_blank"><img width="13%" src="https://github.com/AthenasArch/imagensDeVideos/blob/0a299a9845981f74e181750898f092525f1dab3b/1E6DD00A-5C13-42AC-9FB9-514D0D314288.jpg" target="_blank"></a>
+	<!-- Video tiramos potencia do Kart -->
+	<a href="https://www.instagram.com/reel/Cozsp8WDD1A/?utm_source=ig_web_copy_link" target="_blank"><img width="13%" src="https://github.com/AthenasArch/imagensDeVideos/blob/0a299a9845981f74e181750898f092525f1dab3b/3A60DC70-1304-4809-A6F1-5E23CDBBFCA8.jpg" target="_blank"></a>
+	<!-- Video carrinho de controle remoto -->
+	<a href="https://www.instagram.com/reel/CpTkx5lD_zy/?utm_source=ig_web_copy_link" target="_blank"><img width="13%" src="https://github.com/AthenasArch/imagensDeVideos/blob/0a299a9845981f74e181750898f092525f1dab3b/46604307-9B78-4AF4-A21B-1AF7967E6A1E.jpg" target="_blank"></a>
+	<!-- Video do baterias do Kart -->
+	<a href="https://www.instagram.com/reel/Co99g1fjyrF/?utm_source=ig_web_copy_link" target="_blank"><img width="13%" src="https://github.com/AthenasArch/imagensDeVideos/blob/0a299a9845981f74e181750898f092525f1dab3b/BABA0FDF-3769-4FA5-AB60-0873AADB26FD.jpg" target="_blank"></a>
+	<!-- Video do meu jogo do Flappy Bird -->
+	<a href="https://www.instagram.com/reel/CpN_ZPRDcc8/?utm_source=ig_web_copy_link" target="_blank"><img width="13%" src="https://github.com/AthenasArch/imagensDeVideos/blob/0a299a9845981f74e181750898f092525f1dab3b/D3AEC4A9-DDF1-49B1-9162-DB5CDC7A3345.jpg" target="_blank"></a>
+	<!-- Video do jogo do Luiz-Di-Game -->
+	<a href="https://www.instagram.com/reel/Cmzyv3BD1Oq/?utm_source=ig_web_copy_link" target="_blank"><img width="13%" src="https://github.com/AthenasArch/imagensDeVideos/blob/db9848dbed15541877134b0d37c96c8acba185d3/LuizDiGame.jpg" target="_blank"></a>
+	<!-- Video do jogo do The-Google-Dino -->
+	<a href="https://www.instagram.com/reel/CoYa1rqjHVZ/?utm_source=ig_web_copy_link" target="_blank"><img width="13%" src="https://github.com/AthenasArch/imagensDeVideos/blob/db9848dbed15541877134b0d37c96c8acba185d3/The-Google-Dino.jpg" target="_blank"></a>
+</div>	
+<!-- END INSTAGRAM-CARDS -->
 
 <!-- "#" = (faz uma linha/borda simples) -->
 #
