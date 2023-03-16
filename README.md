@@ -20,6 +20,19 @@
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthenasArch&layout=compact&theme=radical" />
 </a>
 
+<div>
+  <!-- Link do youtube -->
+	<a href="https://www.youtube.com/channel/UCpN0rPQxaVmqBYqXyltqowQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  	<a href="hathenasarch@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/athenasarch?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/athenas-arch-0159701b7/?original_referer=" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+
+
+
+
+
 
 ## Sobre mim
 - 🔭 Atualmente, estou criando conteúdos digitais relacionados a programação, inteligência artificial e projetos de automação no Instagram @athenasarch.
