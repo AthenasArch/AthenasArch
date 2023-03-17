@@ -1,6 +1,7 @@
 <!-- **********************************************************************************************************************************  -->
 <!-- Inicio, aqui estou intrudizindo sobre a minha pessoa:  -->
-### Olá, eu sou o Leonardo Hilgemberg, criador da AthenasArch 👋
+### :wolf: Leonardo Hilgemberg, criador da AthenasArch
+**`Criador de conteúdos digitais (Desenvolvedor/Engenheriro/Filmmaker/Criador)`**
 
 <!-- Isso aqui "#" faz com que crie uma linha simples, para separar o conteudo  -->
 # 
@@ -27,7 +28,8 @@
 
 <!-- **********************************************************************************************************************************  -->
 <!-- Aqui eu trato os links das minhas redes sociais -->
-<!-- Foram tiaradas do site: "https://dev.to/envoy_/150-badges-for-github-pnk#contents" -->
+<!-- Os icones foram tiaradas do site: "https://dev.to/envoy_/150-badges-for-github-pnk#contents" -->
+<!-- Perceba que eu trato os icones como botoes, para poder direcionar para minhas redes sociais -->
 <div>
   	<!-- Link do youtube -->
 	<a href="https://www.youtube.com/channel/UCpN0rPQxaVmqBYqXyltqowQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -45,11 +47,8 @@
 <!-- Aqui eu crio um novo tópido sobre as ferramentas que eu ja utilizei em algum momento da minha vida -->
 <!-- No site que eu irei deixar abaixo você pode selecionar as ferramentas que ja utiliou e clicar em gerar que ele vai gerar o HTML para colar aqui -->
 <!-- "https://rahuldkjain.github.io/gh-profile-readme-generator/" -->
-### 🧰 Ferramentas de trabalho:
+### 🧰 Ferramentas e linguagens:
 
-<p align="left">
-</p>
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
@@ -83,12 +82,13 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<!-- "#" = (faz uma linha/borda simples) -->
-#
+<!-- "---" = (faz uma linha/borda Larga) -->
+---
 
+### Vídeos Shorts do YouTube - Athenas
 <!-- Aqui eu mostro meus videos do YouTube, que fazem parte do meu currículo -->
-### 📺 Meus vídeos Shorts do YouTube - Athenas
-
+<a href="https://www.youtube.com/channel/UCpN0rPQxaVmqBYqXyltqowQ">
+<img alt="YouTube" title="YouTube" height="48" width="48" src="https://github.com/AthenasArch/imagensDeVideos/blob/fcedcf13f216bf70e246c2bbeb9b46164920b5ca/youtube.svg"></a>
 <!-- Inicio dos CARDS-SHORT YOUTUBE -->
 <!-- Para isso aqui ficar bom, eu peguei as fotos iniciais do videos, criei um repositório no GitHub apenas para imagens 
 	Estas imagens que eu carreguei no reósitorio eu estou utilizando aqui, só dimensionei elas para ficar bonito.
@@ -140,13 +140,3 @@
    - Eu sou o leonardo Hilgemberg.
    - 
 </details>
-<!--
-&theme=THEME_NAME
-**AthenasArch/AthenasArch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started:
-
-
--->
