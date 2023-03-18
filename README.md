@@ -1,7 +1,7 @@
 <!-- **********************************************************************************************************************************  -->
 <!-- Inicio, aqui estou intrudizindo sobre a minha pessoa:  -->
 ### :wolf: Leonardo Hilgemberg, criador da AthenasArch
-**`Criador de conteúdos digitais (Desenvolvedor/Engenheriro/Filmmaker/Criador)`**
+**`Criador de conteúdos digitais (Desenvolvedor/Engenheiro/Filmmaker/Criador)`**
 
 <!-- Isso aqui "#" faz com que crie uma linha simples, para separar o conteudo  -->
 # 
