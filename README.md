@@ -137,6 +137,47 @@
 <!-- Falo um pouco sobre a empresa e sobre o Leonardo, projetos, contatos e mais informações -->
 <details>
  <summary><h3>👨‍💻 Detalhes da caminhada de projetos do Leonardo e da Athenas</h3></summary>
-   - Eu sou o leonardo Hilgemberg.
-   - 
+
+	Meu nome é Leonardo Hilgemberg. Vou apresentar os projetos dos quais participei em ordem, em vez de listar as empresas nas quais trabalhei. Posso fornecer mais detalhes sobre os maiores desafios e dificuldades encontradas em cada projeto e como consegui solucionar cada problema.
+
+	1 - Iniciei um curso de mecatrônica na PUC-PR aos 17 anos.
+	
+	2 - Aos 17 anos, fiz um projeto de feira de ciências: um robô como carrinho de controle remoto, usando um microcontrolador para capturar os protocolos de comunicação de um controle de Playstation 2. (Tirei nota máxima na feira).
+	
+	3 - Trabalhei para uma empresa que montava chicotes elétricos para gabinetes de Telecom. Mesmo sendo estagiário, percebi que não havia possibilidades de crescimento na empresa e acabei deixando o cargo. Porém, adquiri conhecimento em AutoCad e chicotes elétricos profissionais.
+
+	4 - Durante o curso técnico e após deixar a empresa de chicotes, estagiei em uma empresa de manutenção de nobreaks. Após o estágio, me tornei coordenador de manutenção de nobreaks do banco HSBC do Brasil aos 19 anos. A oportunidade surgiu porque alguns sócios deixaram o projeto. Estava no lugar certo e na hora certa, e pedi como oportunidade para assumir a coordenação e a execução da manutenção, e deu tudo certo.
+
+		4.1 - Realizei diversos cursos sobre nobreaks em vários estados, como o curso de manutenção de nobreaks Engetron em Minas Gerais.
+
+	5 - Nessa mesma empresa, mais tarde, criei uma área de desenvolvimento de tecnologia, software e elaboração de placas e projetos eletrônicos. Percebi a oportunidade de reduzir os custos das placas eletrônicas, que eram fornecidas com valor muito mais elevado do que realmente valiam.
+
+		5.1 - Entrei em um curso de inglês na Uptime.
+
+	6 - Durante o curso técnico, desenvolvi vários projetos de automação, como a melhoria do carrinho robô, usando um controlador de RF433, projetos com PIC e elaboração de válvulas eletrônicas utilizando diversos tipos de motores (servomotores, encoder rotativo e motores de passo).
+
+		6.1 - Fiz um curso de algoritmos e lógica de programação na Elaborata.
+		6.2 - Fiz um curso de C/C++ na Elaborata.
+		6.3 - Fiz um curso de Python na Elaborata.
+
+	7 - Na empresa de nobreaks, o dono decidiu desenvolver um equipamento para monitorar nobreaks com microcontroladores de baixo custo, a fim de reduzir custos técnicos e a frequência de manutenção preventiva, mantendo a mesma qualidade de serviço. O projeto de monitoramento era ambicioso e utilizava dispositivos com tecnologia 2G para envio de dados por rede móvel. Os dados eram coletados com um microcontrolador PIC e formatados para serem enviados a um servidor que tratava a informação.
+
+	8 - Entrei no curso de Engenharia Elétrica, onde desenvolvi vários projetos para outros alunos e por conta própria, apenas por gostar dessa área.
+
+	9 - O HSBC foi vendido e a empresa perdeu o contrato. Continuei por mais um tempo, mas o dono resolveu seguir outros caminhos na área de manutenção civil, o que não fazia mais sentido para mim.
+
+	10 - Entrei em um projeto com o Itaú, desenvolvendo uma placa eletrônica para controlar o acesso de pessoas. Também iniciamos um controlador de ar-condicionado com acesso remoto.
+
+	11 - Ao concluir os projetos para a terceirizada do Itaú, entrei em uma empresa de desenvolvimento de projetos eletrônicos e de automação que fabricava máquinas de ponto. Nessa empresa, meus conhecimentos de C e hardware foram colocados à prova. Estudei por vários dias para me adequar à equipe de engenheiros eletrônicos e consegui me adaptar e ajudar a resolver diversos problemas. Um dos equipamentos foi homologado e lançado no mercado durante o período em que estive na empresa. Também criamos alguns aplicativos com Java e Python que interagiam com o hardware.
+
+	12 - Concluí a engenharia, e meu TCC foi sobre o sistema de monitoramento de equipamentos inversores e retificadores, com medições precisas RMS e envio de dados para a nuvem, utilizando uma API gratuita da TAGO.io.
+
+	13 - Tornei-me sócio minoritário em uma empresa de desenvolvimento de projetos de automação para elaborar uma máquina lançadora de bolinhas de tênis, que possui interface com display touchscreen, sistema de controle PID e vários outros conceitos importantes para a engenharia elétrica e eletrônica.
+
+	14 - Paralelamente à empresa de tênis, entrei em outro projeto de manutenção de agências na parte elétrica, vistorias de AVCB (Auto de Vistoria do Corpo de Bombeiros) e também da parte hidráulica. Realizei a emissão de mais de 600 ARTs para os serviços executados no banco Itaú.
+
+	15 - Criei um Instagram para conhecer novas pessoas e desenvolver alguns projetos de forma Open Source, a fim de aprender mais sobre conceitos de programação, inteligência artificial, GitHub, Python e outras linguagens de programação e seus conceitos. (Hoje, 01/04/2023, o Instagram conta com 23.000 usuários interagindo com os projetos.)
+
+	16 - Atualmente, busco ser útil em alguma empresa com algum projeto relacionado às habilidades que adquiri no passado. Também quero encontrar novos desafios para o futuro.
+
 </details>
