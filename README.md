@@ -3,6 +3,80 @@
 ### :wolf: Leonardo Hilgemberg, criador da AthenasArch
 **`Criador de conteúdos digitais (Desenvolvedor/Engenheiro/Filmmaker/Criador)`**
 
+---
+# Minha gestão de tempo.
+<details>
+<summary>1. Somos donos de todo o nosso tempo</summary>
+<br>
+
+> Reconheça que, apesar das inúmeras demandas sobre nosso tempo, no final das contas, somos nós quem decidimos como gastá-lo. Esta perspectiva nos dá poder e responsabilidade para fazer escolhas conscientes sobre como utilizamos nosso tempo.
+
+</details>
+
+<details>
+<summary>2. Claro que sim ou não</summary>
+<br>
+	
+> Quando se trata de compromissos e decisões, adote uma abordagem clara. Se algo faz sentido, alinha-se com seus objetivos e é possível de ser realizado, diga "sim". Por outro lado, se você tem dúvidas, acha que não trará valor ou não está alinhado com suas prioridades, seja direto e diga "não". Evitar a indecisão pode te livrar de estresse desnecessário e garantir que seu tempo seja gasto de maneira mais eficaz.
+</details>
+
+<details>
+<summary>3. O destaque diário(*)</summary>
+<br>
+
+> Escolha a coisa mais importante que você precisa ou quer realizar a cada dia. Dando prioridade a essa tarefa ou atividade, você garante que algo significativo seja realizado diariamente.
+</details>
+
+<details>
+<summary>4. Use uma lista de tarefas</summary>
+<br>
+
+> Mantenha uma lista atualizada de tarefas. Ela serve como um lembrete visível de seus compromissos e pode ajudar a garantir que você não esqueça de nada importante.
+</details>
+
+<details>
+<summary>5. Bloqueio de tempo no calendário</summary>
+<br>
+
+> Separe blocos específicos de tempo em sua agenda para atividades específicas. Isso ajuda a garantir que você tenha tempo dedicado para o que é mais importante e pode aumentar sua produtividade.
+</details>
+
+<details>
+<summary>6. Lei de Parkinson (O trabalho se expande para preencher o tempo) - Defina um prazo artificial.</summary>
+<br>
+
+> Se você der a si mesmo uma semana para completar uma tarefa de duas horas, é provável que demore uma semana. Ao definir prazos artificiais, você se motiva a completar tarefas de maneira mais eficiente.
+</details>
+
+<details>
+<summary>7. Tenha tempo protegido</summary>
+<br>	
+
+> Reserve períodos em que você não será interrompido para se concentrar em tarefas que exigem atenção profunda. Proteger esse tempo significa evitar distrações e interrupções.
+</details>
+
+<details>
+<summary>8. Delegação</summary
+<br>	
+
+> Reconheça que você não precisa fazer tudo sozinho. Delegue tarefas quando possível e apropriado. Isso permite que você se concentre em suas principais responsabilidades e habilidades.
+</details>
+
+<details>
+<summary>9. Agendamento automatizado (Calendário)</summary>
+<br>
+	
+> Utilize ferramentas tecnológicas, como aplicativos de calendário, para programar e lembrar-se de compromissos e tarefas. Esses sistemas podem enviar lembretes automáticos e ajudar na organização.
+</details>
+
+<details>
+<summary>10. A escolha a ser satisfeita</summary>
+<br>
+
+> Reconheça que é impossível fazer tudo. Faça escolhas sobre onde gastar seu tempo e esteja satisfeito com essas escolhas. Aceite que deixar de lado certas tarefas ou compromissos é parte de gerenciar eficazmente o tempo.
+</details>
+
+
 <!-- Isso aqui "#" faz com que crie uma linha simples, para separar o conteudo  -->
 # 
 
